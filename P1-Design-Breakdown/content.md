@@ -228,7 +228,7 @@ The `UIButton`, along with labels, are one of the most common objects for buildi
 
 ![Reset Button](assets/reset_button.png)
 
-Our reset button will allow a user to clear the current input from our tip calculator and reset it to a empty state.
+Our reset button will allow a user to clear the current input from our tip calculator and reset it to an empty state.
 
 > [info]
 You don't need to memorize all of the UIKit objects we've just covered. Just remember that there are pre-made UI components that you can use to build your UI. If you're trying to build any type of visual element, check `UIKit` to see if there's a base UI object you can use to build off of.
